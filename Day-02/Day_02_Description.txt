@@ -1,5 +1,5 @@
 
-DAY 02 – DATA VISUALIZATION WORKSHOP
+DAY 02 - DATA VISUALIZATION WORKSHOP
 
 Description:
 Day 02 of the 45-Hour Data Visualization Workshop focused on Python programming fundamentals and basic data visualization using Matplotlib.
