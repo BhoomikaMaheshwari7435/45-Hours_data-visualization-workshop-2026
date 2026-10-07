@@ -103,7 +103,7 @@ data-visualization-workshop-2026/
 
 # 📅 Workshop Learning Journey
 
-## 🟢 Day 1 — Orientation
+## 🟢 Day 1 - Orientation
 
 The first day is dedicated to understanding the workshop structure, objectives, expectations, tools, project requirements, and assessment process.
 
@@ -120,7 +120,7 @@ The first day is dedicated to understanding the workshop structure, objectives, 
 
 ---
 
-# 🔵 Day 2 — Learning Session 1
+# 🔵 Day 2 - Learning Session 1
 
 The first technical learning session begins.
 
@@ -142,7 +142,7 @@ Daily Google Colab notebooks and practical tasks will be stored in the `Day-02/`
 
 ---
 
-# 🔵 Day 3 — Learning Session 2
+# 🔵 Day 3 - Learning Session 2
 
 The second technical learning session focuses on further understanding and applying Data Visualization concepts.
 
@@ -154,7 +154,7 @@ All related notebooks, exercises, and supporting files will be stored in the `Da
 
 ---
 
-# 🔵 Day 4 — Learning Session 3
+# 🔵 Day 4 - Learning Session 3
 
 The third technical learning session focuses on practical Data Visualization and analytical concepts.
 
@@ -173,7 +173,7 @@ The corresponding notebooks and tasks will be stored in the `Day-04/` directory.
 
 ---
 
-# 🔵 Day 5 — Learning Session 4
+# 🔵 Day 5 - Learning Session 4
 
 The fourth technical learning session focuses on visualization tools and practical implementation.
 
@@ -190,7 +190,7 @@ All related work will be stored in the `Day-05/` directory.
 
 ---
 
-# 🔵 Day 6 — Learning Session 5
+# 🔵 Day 6 - Learning Session 5
 
 The final learning session focuses on advanced concepts, practical work, project development, and preparation for the final assessment.
 
@@ -210,7 +210,7 @@ The corresponding notebooks, exercises, and project-related work will be stored 
 
 ---
 
-# 🟠 Day 7 — Final Project & Assessment
+# 🟠 Day 7 - Final Project & Assessment
 
 The final day is dedicated to completing and submitting the workshop project and appearing for the final assessment/examination.
 
@@ -365,4 +365,4 @@ Computer Engineering Student
 
 > **Learn to understand data, analyze it effectively, visualize it clearly, and communicate meaningful insights that can support real-world decision-making.**
 
-This repository documents my journey throughout the **45-hour Data Visualization Workshop — from orientation and learning sessions to the final project and assessment.**
+This repository documents my journey throughout the **45-hour Data Visualization Workshop - from orientation and learning sessions to the final project and assessment.**
