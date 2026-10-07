@@ -1,0 +1,31 @@
+
+DAY 02 – DATA VISUALIZATION WORKSHOP
+
+Description:
+Day 02 of the 45-Hour Data Visualization Workshop focused on Python programming fundamentals and basic data visualization using Matplotlib.
+
+In this session, I practiced Python variables, data types, strings, string slicing, lists, tuples, dictionaries, indexing, and basic operations. I also solved multiple practice questions to understand these concepts through coding.
+
+The session also introduced basic data visualization using Matplotlib. I practiced creating and displaying different types of charts, including bar charts, pie charts, and scatter plots. I also learned how to add titles, labels, and other basic elements to make visualizations easier to understand.
+
+The complete practical work and examples are available in the Day_02_Notebook.ipynb file.
+
+Topics Covered:
+- Python Variables
+- Python Data Types
+- Strings and String Slicing
+- Lists
+- Tuples
+- Dictionaries
+- Indexing and Basic Operations
+- Matplotlib
+- Bar Chart
+- Pie Chart
+- Scatter Plot
+- Chart Titles and Axis Labels
+
+
+Conclusion:
+Day 02 helped me strengthen my Python fundamentals and introduced me to the basic concepts of data visualization. I learned how Python data structures can be used to store and manipulate data and how Matplotlib can be used to represent data visually.
+
+This session provided a foundation for understanding data analysis and visualization, which will be useful for learning advanced visualization tools and concepts in the upcoming sessions of the workshop.
