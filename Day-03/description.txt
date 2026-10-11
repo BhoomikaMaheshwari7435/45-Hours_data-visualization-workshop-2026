@@ -1,0 +1,29 @@
+# Day 3 – Power BI Dashboard Development
+
+## Project: GAMEVERSE 🎮
+
+### Overview
+On Day 3 of the Data Visualization Workshop, I started developing the GAMEVERSE dashboard using Microsoft Power BI. The project focuses on analyzing video game sales, genres, platforms, and player engagement.
+
+### Tasks Completed
+- Imported the Video Game Sales and Steam Games datasets into Power BI.
+- Cleaned and prepared the datasets using Power Query.
+- Checked missing values and corrected data types where required.
+- Created KPI cards for Total Games, Total Global Sales, Average Peak CCU, and Total Positive Reviews.
+- Started designing the dashboard layout using a gaming-themed background.
+- Created charts for sales trends by year, sales by genre, top-selling games, games by platform, and regional sales.
+- Explored dashboard colors, titles, subtitles, and visual formatting.
+
+### Tools Used
+- Microsoft Power BI
+- Power Query
+- CSV datasets
+
+### Learning Outcomes
+- Learned basic data cleaning and preparation in Power Query.
+- Practiced creating KPI cards and different chart types.
+- Learned to assign fields to chart axes and configure aggregations.
+- Understood how dashboard layout, colors, and formatting improve data presentation.
+
+### Conclusion
+Day 3 focused on transforming cleaned gaming datasets into an interactive dashboard. This work forms the foundation for further gaming market and player engagement analysis in GAMEVERSE.
